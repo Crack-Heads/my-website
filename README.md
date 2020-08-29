@@ -5,7 +5,4 @@ This title update
 
 Updated Example
 
-Updated again
-
-
-Trhe last tweeak remote
+deleted and updats tremote before rebase
